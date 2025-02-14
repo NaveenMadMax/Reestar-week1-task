@@ -25,7 +25,7 @@ Open index.html in your browser to view the project.
 
 🌐 Live Demo
 
-🔗 [Deployed Project Link]
+🔗 https://naveenmadmax.github.io/Reestar-week1-task/
 
 
 📞 Feedback
