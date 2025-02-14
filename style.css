@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.section-one p{
+    color: gray;
+}
+.menu-container{
+    padding: 20px;
+    text-align: center;
+}
+.menu-card{
+    display: inline-block;
+    border: solid black 3px;
+    text-align: center;
+}
+.menu-card img{
+    height: 300px;
+    width: 200px;
+}
+.menu-card button{
+    background-color: black;
+    border: none;
+    padding: 10px;
+    color: white;
+}
+.Contact-section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.Contact-section table{
+    margin: 0 auto;
+}
+.Contact-section input{
+    padding: 5px;
+}
+.Contact-section button{
+    background-color:#FEFF00 ;
+    padding: 5px;
+    border: none;
+    width: 500px;
+    text-align: center;
+}
